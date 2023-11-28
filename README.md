@@ -2,6 +2,8 @@
 
 Welcome to the WebCode Agency GitHub Repository!
 
+![WebCode Agency Logo](logo.png)
+
 ## About Us
 
 At WebCode Agency, we are passionate about crafting exceptional web experiences and providing cutting-edge digital solutions. Our team consists of dedicated professionals with expertise in web development, design, and technology.
@@ -25,6 +27,8 @@ Explore our comprehensive services:
 ## Get Started
 
 Explore our projects, contribute, and let's build something extraordinary together! If you have any questions or ideas, feel free to reach out.
+
+![WebCode Agency in Action](webd.gif)
 
 ## Contact Us
 
